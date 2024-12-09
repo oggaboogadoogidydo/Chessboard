@@ -43,6 +43,17 @@
 	- Track magnets in each piece to detect when one is picked up
 	- Pieces should "snap" into place to ensure accurate placement and measurement
 
+# Programming
+1. Display
+    - UI via webpage with live updates
+    - Will display puzzles on generation request
+    - Issue visual alerts, on confirmed (user presses clock after making) illegal moves
+    - Issue warning if no piece movement is detected but time is hit
+2. Backend
+    - Live update board information every second or so
+    - Mark time increments
+    - 
+
 # Design
 
 Retro futuristic. Wood and Brass with frosted LEDs and rounded corners
