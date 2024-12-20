@@ -10,8 +10,8 @@
 ## Team
 
 ### Lead Designers
-Robert Wachal (@oggaboogadoogidydo)\
-Rohan Cherukuri (@greenden007)
+Robert Wachal (github.com/oggaboogadoogidydo)\
+Rohan Cherukuri (github.com/greenden007)
 
 ### Assembly
 Eric Anderson\
